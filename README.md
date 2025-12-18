@@ -111,8 +111,5 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 4.  **Push to the Branch** (`git push origin feature/AmazingFeature`)
 5.  **Open a Pull Request**
 
-## Contact
-
-[Your Name] - [Your Email]
 
 Project Link: [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
